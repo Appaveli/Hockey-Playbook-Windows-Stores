@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DOMINQUE</Machine>
+    <WindowsUser>Dterryable</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>55121DominqueTerry.HockeyPlaybook</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0F3159D772BDAFA02FC2BE47BEED18389EC0078B95CCA410A54B9EB6ACBE7CE8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>55121DominqueTerry.HockeyPlaybook_1.1.0.0_neutral__4zszprrk1de7y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>55121DominqueTerry.HockeyPlaybook_4zszprrk1de7y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>55121DominqueTerry.HockeyPlaybook</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=73EDAEBE-AB82-4D1F-A6F5-91757F1E379A</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T09:08:45.390</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\bin\Release\HockeyPlaybook.exe">
+      <PackagePath>HockeyPlaybook.exe</PackagePath>
+      <Modified>2014-12-13T09:08:43.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\circle.png">
+      <PackagePath>Assets\circle.png</PackagePath>
+      <Modified>2014-12-13T07:30:38.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\hockeyimage.png">
+      <PackagePath>Assets\hockeyimage.png</PackagePath>
+      <Modified>2014-12-13T07:26:20.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\HockeyTablet.png">
+      <PackagePath>Assets\HockeyTablet.png</PackagePath>
+      <Modified>2014-12-13T07:17:23.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T08:53:09.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T08:57:09.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T08:54:39.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T08:57:32.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\Assets\hockey.mp3">
+      <PackagePath>Assets\hockey.mp3</PackagePath>
+      <Modified>2014-12-13T08:43:01.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-12-13T07:13:06.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-13T08:59:45.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\bin\Release\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2014-12-13T09:08:40.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\bin\Release\IceRink.xbf">
+      <PackagePath>IceRink.xbf</PackagePath>
+      <Modified>2014-12-13T08:59:45.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\bin\Release\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2014-12-13T08:59:45.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\bin\Release\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2014-12-13T08:59:45.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\bin\Release\HockeyPlaybook.xr.xml">
+      <PackagePath>HockeyPlaybook.xr.xml</PackagePath>
+      <Modified>2014-12-13T08:59:45.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\HockeyPlaybook\HockeyPlaybook\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-13T09:08:44.368</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
